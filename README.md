@@ -1,0 +1,3 @@
+install cohd
+
+run make
